@@ -89,6 +89,7 @@
     <Compile Include="TestLogic\IGuardianTestLogic.cs" />
     <Compile Include="TDD\NewUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserDefined\GitPullExample.cs" />
     <Compile Include="UserDefined\GlobalFunction.cs" />
   </ItemGroup>
   <ItemGroup>
